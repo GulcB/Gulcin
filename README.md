@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulcb&label=Profile%20views&color=0eb419&style=flat" alt="gulcb" /> </p>
 
 - 🌱 I’m currently learning **Phyton, C, Swift**
-
+- I'm developing C projects at 42 Turkiye 👩‍💻
+- I'm aiming to be a Data Scientist 👀
+  
 - 📫 How to reach me **bodurrgulcin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
